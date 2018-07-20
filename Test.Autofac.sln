@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Autofac.ConsoleApp.Core", "Test.Autofac.ConsoleApp.Core\Test.Autofac.ConsoleApp.Core.csproj", "{3CD4C07B-1FEA-4116-95E2-99149593DF4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Autofac.Service", "Test.Autofac.Service\Test.Autofac.Service.csproj", "{7CCF8A70-1897-4FD9-840A-977EB2423B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Autofac.ConsoleApp", "Test.Autofac.ConsoleApp\Test.Autofac.ConsoleApp.csproj", "{31838BE0-38A1-43E8-B308-5E6B208CC23D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3CD4C07B-1FEA-4116-95E2-99149593DF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD4C07B-1FEA-4116-95E2-99149593DF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD4C07B-1FEA-4116-95E2-99149593DF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCF8A70-1897-4FD9-840A-977EB2423B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCF8A70-1897-4FD9-840A-977EB2423B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCF8A70-1897-4FD9-840A-977EB2423B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCF8A70-1897-4FD9-840A-977EB2423B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31838BE0-38A1-43E8-B308-5E6B208CC23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31838BE0-38A1-43E8-B308-5E6B208CC23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31838BE0-38A1-43E8-B308-5E6B208CC23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31838BE0-38A1-43E8-B308-5E6B208CC23D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
